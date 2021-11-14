@@ -1,3 +1,3 @@
 # opensourcerenewables
 Open Source Renewable Designs
-The designs here are releases under the  https://opensource.org/CERN-OHL-S license. 
+The designs here are released under the  https://opensource.org/CERN-OHL-S license. 
